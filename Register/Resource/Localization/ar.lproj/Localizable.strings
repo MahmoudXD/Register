@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Register
+
+  Created by Mahmoud Sherbeny on 11/03/2023.
+  
+*/
+"lang" = "ar";
+"REGISTER" = "تسجيل";
+"Full Name" = "الاسم كامل";
+"Password" = "كلمة المرور";
+"Code" = "كود البلد";
+"Email" = "الميل";
+"Country" = "البلد";
+"City" = "المدينة";
+"By clicking register you agree to Terms and Conditions" = "بالضغط علي تسجيل سوف تكون موافق علي الشروط والاحكام.";
+"Terms and Conditions" = "الشروط والاحكام";
+"Change Lanquage" = "تغير اللغة";
